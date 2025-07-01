@@ -1,2 +1,2 @@
 nginx
-docker.io/library/eclipse-temurin:17-jre-alpine
+eclipse-temurin:17-jre-alpine
